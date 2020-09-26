@@ -49,7 +49,7 @@ class ScoreSlider extends StatefulWidget {
     this.minScore = 0,
     this.score,
     this.onScoreChanged,
-    this.height = 30,
+    this.height = 15,
     this.thumbColor,
     this.scoreDotColor,
     this.backgroundColor,
